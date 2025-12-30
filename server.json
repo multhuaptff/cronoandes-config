@@ -1,4 +1,9 @@
 {
   "api_url": "https://educational-dimensions-appliance-dial.trycloudflare.com",
-  "updated_at": "2025-12-30T00:29:29.390720Z"
+  "updated_at": "2025-12-30T00:47:04.004746Z",
+  "server_info": {
+    "name": "CronoAndes",
+    "version": "4.0-RFID",
+    "status": "online"
+  }
 }
