@@ -1,9 +1,42 @@
 {
-  "api_url": "https://chronicles-helped-fri-cuisine.trycloudflare.com",
-  "updated_at": "2026-01-25T13:20:12.140435Z",
-  "server_info": {
-    "name": "CronoAndes",
-    "version": "4.0-RFID",
-    "status": "online"
+  "version": 2,
+  "updated_at": "2026-09-03T13:28:57.410779+00:00",
+  "eventos": {
+    "APMTH": {
+      "event_code": "APMTH",
+      "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "urls": [
+        "https://condiment-hefty-celery.ngrok-free.dev",
+        "https://cultures-situation-write-heavily.trycloudflare.com",
+        "http://192.168.0.198:5001"
+      ],
+      "ip_local": "192.168.0.198",
+      "puerto": 5001,
+      "server_id": "c92035cb-726e-4c0e-9b3d-a22a6d9d067f",
+      "server_info": {
+        "name": "CronoAndes",
+        "version": "4.0-RFID",
+        "status": "online"
+      },
+      "updated_at": "2026-09-03T13:28:57.410779+00:00"
+    },
+    "3ID15": {
+      "event_code": "3ID15",
+      "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "urls": [
+        "https://condiment-hefty-celery.ngrok-free.dev",
+        "https://cultures-situation-write-heavily.trycloudflare.com",
+        "http://192.168.0.198:5001"
+      ],
+      "ip_local": "192.168.0.198",
+      "puerto": 5001,
+      "server_id": "c92035cb-726e-4c0e-9b3d-a22a6d9d067f",
+      "server_info": {
+        "name": "CronoAndes",
+        "version": "4.0-RFID",
+        "status": "online"
+      },
+      "updated_at": "2026-09-03T13:28:57.410779+00:00"
+    }
   }
 }
