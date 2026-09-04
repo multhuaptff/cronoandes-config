@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "updated_at": "2026-09-03T23:28:07.293122+00:00",
+  "updated_at": "2026-09-04T01:00:48.762497+00:00",
   "eventos": {
     "APMTH": {
       "event_code": "APMTH",
       "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "urls": [
         "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://yrs-creature-consensus-ages.trycloudflare.com",
+        "https://bolt-shop-respect-prove.trycloudflare.com",
         "http://192.168.0.198:5001"
       ],
       "ip_local": "192.168.0.198",
@@ -18,14 +18,14 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-09-03T23:28:07.293122+00:00"
+      "updated_at": "2026-09-04T01:00:48.762497+00:00"
     },
     "3ID15": {
       "event_code": "3ID15",
       "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "urls": [
         "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://yrs-creature-consensus-ages.trycloudflare.com",
+        "https://bolt-shop-respect-prove.trycloudflare.com",
         "http://192.168.0.198:5001"
       ],
       "ip_local": "192.168.0.198",
@@ -36,7 +36,7 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-09-03T23:28:07.293122+00:00"
+      "updated_at": "2026-09-04T01:00:48.762497+00:00"
     }
   }
 }
