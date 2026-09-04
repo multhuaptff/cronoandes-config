@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-04T01:10:27.000232+00:00",
+  "updated_at": "2026-09-04T01:16:56.683835+00:00",
   "eventos": {
     "APMTH": {
       "event_code": "APMTH",
@@ -43,7 +43,7 @@
       "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "urls": [
         "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://thesaurus-collaborative-structured-excited.trycloudflare.com",
+        "https://unlimited-more-requests-tricks.trycloudflare.com",
         "http://192.168.0.4:5001"
       ],
       "ip_local": "192.168.0.4",
@@ -54,7 +54,7 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-09-04T01:10:27.000232+00:00"
+      "updated_at": "2026-09-04T01:16:56.683835+00:00"
     }
   }
 }
