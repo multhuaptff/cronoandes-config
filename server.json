@@ -1,43 +1,7 @@
 {
   "version": 2,
-  "updated_at": "2026-09-04T01:16:56.683835+00:00",
+  "updated_at": "2026-09-04T15:49:14.960139+00:00",
   "eventos": {
-    "APMTH": {
-      "event_code": "APMTH",
-      "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
-      "urls": [
-        "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://bolt-shop-respect-prove.trycloudflare.com",
-        "http://192.168.0.198:5001"
-      ],
-      "ip_local": "192.168.0.198",
-      "puerto": 5001,
-      "server_id": "c92035cb-726e-4c0e-9b3d-a22a6d9d067f",
-      "server_info": {
-        "name": "CronoAndes",
-        "version": "4.0-RFID",
-        "status": "online"
-      },
-      "updated_at": "2026-09-04T01:00:48.762497+00:00"
-    },
-    "3ID15": {
-      "event_code": "3ID15",
-      "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
-      "urls": [
-        "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://bolt-shop-respect-prove.trycloudflare.com",
-        "http://192.168.0.198:5001"
-      ],
-      "ip_local": "192.168.0.198",
-      "puerto": 5001,
-      "server_id": "c92035cb-726e-4c0e-9b3d-a22a6d9d067f",
-      "server_info": {
-        "name": "CronoAndes",
-        "version": "4.0-RFID",
-        "status": "online"
-      },
-      "updated_at": "2026-09-04T01:00:48.762497+00:00"
-    },
     "LNZT2": {
       "event_code": "LNZT2",
       "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
@@ -55,6 +19,42 @@
         "status": "online"
       },
       "updated_at": "2026-09-04T01:16:56.683835+00:00"
+    },
+    "APMTH": {
+      "event_code": "APMTH",
+      "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "urls": [
+        "https://condiment-hefty-celery.ngrok-free.dev",
+        "https://attributes-heated-aud-sim.trycloudflare.com",
+        "http://192.168.0.198:5001"
+      ],
+      "ip_local": "192.168.0.198",
+      "puerto": 5001,
+      "server_id": "c92035cb-726e-4c0e-9b3d-a22a6d9d067f",
+      "server_info": {
+        "name": "CronoAndes",
+        "version": "4.0-RFID",
+        "status": "online"
+      },
+      "updated_at": "2026-09-04T15:49:14.960139+00:00"
+    },
+    "3ID15": {
+      "event_code": "3ID15",
+      "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "urls": [
+        "https://condiment-hefty-celery.ngrok-free.dev",
+        "https://attributes-heated-aud-sim.trycloudflare.com",
+        "http://192.168.0.198:5001"
+      ],
+      "ip_local": "192.168.0.198",
+      "puerto": 5001,
+      "server_id": "c92035cb-726e-4c0e-9b3d-a22a6d9d067f",
+      "server_info": {
+        "name": "CronoAndes",
+        "version": "4.0-RFID",
+        "status": "online"
+      },
+      "updated_at": "2026-09-04T15:49:14.960139+00:00"
     }
   }
 }
