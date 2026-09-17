@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-17T17:24:34.567036+00:00",
+  "updated_at": "2026-09-17T18:56:14.139681+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -20,24 +20,6 @@
       },
       "updated_at": "2026-09-04T01:16:56.683835+00:00"
     },
-    "APMTH": {
-      "event_code": "APMTH",
-      "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
-      "urls": [
-        "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://assured-thou-sacred-virtual.trycloudflare.com",
-        "http://192.168.0.198:5001"
-      ],
-      "ip_local": "192.168.0.198",
-      "puerto": 5001,
-      "server_id": "c92035cb-726e-4c0e-9b3d-a22a6d9d067f",
-      "server_info": {
-        "name": "CronoAndes",
-        "version": "4.0-RFID",
-        "status": "online"
-      },
-      "updated_at": "2026-09-08T17:41:27.090215+00:00"
-    },
     "RUIRL": {
       "event_code": "RUIRL",
       "api_url": "https://insert-tuition-classification-effective.trycloudflare.com",
@@ -54,6 +36,24 @@
         "status": "online"
       },
       "updated_at": "2026-09-17T17:24:34.567036+00:00"
+    },
+    "OF1VP": {
+      "event_code": "OF1VP",
+      "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "urls": [
+        "https://condiment-hefty-celery.ngrok-free.dev",
+        "https://march-install-reaching-caring.trycloudflare.com",
+        "http://192.168.0.196:5001"
+      ],
+      "ip_local": "192.168.0.196",
+      "puerto": 5001,
+      "server_id": "c92035cb-726e-4c0e-9b3d-a22a6d9d067f",
+      "server_info": {
+        "name": "CronoAndes",
+        "version": "4.0-RFID",
+        "status": "online"
+      },
+      "updated_at": "2026-09-17T18:56:14.139681+00:00"
     }
   }
 }
