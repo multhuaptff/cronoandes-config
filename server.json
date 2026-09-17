@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-08T17:41:27.090215+00:00",
+  "updated_at": "2026-09-17T16:59:37.139597+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -37,6 +37,23 @@
         "status": "online"
       },
       "updated_at": "2026-09-08T17:41:27.090215+00:00"
+    },
+    "RUIRL": {
+      "event_code": "RUIRL",
+      "api_url": "https://katrina-including-mary-horizon.trycloudflare.com",
+      "urls": [
+        "https://katrina-including-mary-horizon.trycloudflare.com",
+        "http://10.13.249.224:5001"
+      ],
+      "ip_local": "10.13.249.224",
+      "puerto": 5001,
+      "server_id": "96b0cd51-1fb9-46a4-be93-de979377f2e1",
+      "server_info": {
+        "name": "CronoAndes",
+        "version": "4.0-RFID",
+        "status": "online"
+      },
+      "updated_at": "2026-09-17T16:59:37.139597+00:00"
     }
   }
 }
