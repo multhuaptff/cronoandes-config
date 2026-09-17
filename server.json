@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-17T16:59:37.139597+00:00",
+  "updated_at": "2026-09-17T17:24:34.567036+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -40,12 +40,12 @@
     },
     "RUIRL": {
       "event_code": "RUIRL",
-      "api_url": "https://katrina-including-mary-horizon.trycloudflare.com",
+      "api_url": "https://insert-tuition-classification-effective.trycloudflare.com",
       "urls": [
-        "https://katrina-including-mary-horizon.trycloudflare.com",
-        "http://10.13.249.224:5001"
+        "https://insert-tuition-classification-effective.trycloudflare.com",
+        "http://192.168.0.21:5001"
       ],
-      "ip_local": "10.13.249.224",
+      "ip_local": "192.168.0.21",
       "puerto": 5001,
       "server_id": "96b0cd51-1fb9-46a4-be93-de979377f2e1",
       "server_info": {
@@ -53,7 +53,7 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-09-17T16:59:37.139597+00:00"
+      "updated_at": "2026-09-17T17:24:34.567036+00:00"
     }
   }
 }
