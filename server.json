@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-17T21:35:57.383981+00:00",
+  "updated_at": "2026-09-18T15:53:01.460110+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -37,12 +37,12 @@
       },
       "updated_at": "2026-09-17T17:24:34.567036+00:00"
     },
-    "OF1VP": {
-      "event_code": "OF1VP",
+    "APMTH": {
+      "event_code": "APMTH",
       "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "urls": [
         "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://cognitive-ways-loud-dryer.trycloudflare.com",
+        "https://president-downloading-comfortable-ceiling.trycloudflare.com",
         "http://192.168.0.196:5001"
       ],
       "ip_local": "192.168.0.196",
@@ -53,7 +53,7 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-09-17T21:35:57.383981+00:00"
+      "updated_at": "2026-09-18T15:53:01.460110+00:00"
     }
   }
 }
