@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-20T13:22:15.477671+00:00",
+  "updated_at": "2026-09-20T15:46:44.352381+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -57,12 +57,12 @@
     },
     "OF1VP": {
       "event_code": "OF1VP",
-      "api_url": "https://metropolitan-harvey-hoped-bedroom.trycloudflare.com",
+      "api_url": "https://api.trycloudflare.com",
       "urls": [
-        "https://metropolitan-harvey-hoped-bedroom.trycloudflare.com",
-        "http://192.168.0.21:5001"
+        "https://api.trycloudflare.com",
+        "http://10.39.182.224:5001"
       ],
-      "ip_local": "192.168.0.21",
+      "ip_local": "10.39.182.224",
       "puerto": 5001,
       "server_id": "11830b6b-ef9f-4e5d-90a4-2959e60013c9",
       "server_info": {
@@ -70,7 +70,7 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-09-20T13:22:15.477671+00:00"
+      "updated_at": "2026-09-20T15:46:44.352381+00:00"
     }
   }
 }
