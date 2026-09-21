@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-21T23:52:14.691612+00:00",
+  "updated_at": "2026-09-21T23:54:31.465712+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -91,9 +91,9 @@
     },
     "I42TG": {
       "event_code": "I42TG",
-      "api_url": "https://formerly-picking-onion-monte.trycloudflare.com",
+      "api_url": "https://descending-eos-landscape-awards.trycloudflare.com",
       "urls": [
-        "https://formerly-picking-onion-monte.trycloudflare.com",
+        "https://descending-eos-landscape-awards.trycloudflare.com",
         "http://192.168.0.196:5001"
       ],
       "ip_local": "192.168.0.196",
@@ -104,7 +104,7 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-09-21T23:52:14.691612+00:00"
+      "updated_at": "2026-09-21T23:54:31.465712+00:00"
     }
   }
 }
