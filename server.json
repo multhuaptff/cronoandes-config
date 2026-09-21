@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-20T19:37:00.686780+00:00",
+  "updated_at": "2026-09-21T03:19:08.872016+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -71,6 +71,23 @@
         "status": "online"
       },
       "updated_at": "2026-09-20T19:37:00.686780+00:00"
+    },
+    "WPCM3": {
+      "event_code": "WPCM3",
+      "api_url": "https://cas-requesting-sun-connectors.trycloudflare.com",
+      "urls": [
+        "https://cas-requesting-sun-connectors.trycloudflare.com",
+        "http://192.168.0.196:5001"
+      ],
+      "ip_local": "192.168.0.196",
+      "puerto": 5001,
+      "server_id": "de456dc6-dce0-41aa-9fd6-c3574ba3172b",
+      "server_info": {
+        "name": "CronoAndes",
+        "version": "4.0-RFID",
+        "status": "online"
+      },
+      "updated_at": "2026-09-21T03:19:08.872016+00:00"
     }
   }
 }
