@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-22T01:45:06.901882+00:00",
+  "updated_at": "2026-09-22T02:04:49.651509+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -122,6 +122,24 @@
         "status": "online"
       },
       "updated_at": "2026-09-22T01:45:06.901882+00:00"
+    },
+    "ZXCSB": {
+      "event_code": "ZXCSB",
+      "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "urls": [
+        "https://condiment-hefty-celery.ngrok-free.dev",
+        "https://measuring-accessibility-moral-plasma.trycloudflare.com",
+        "http://192.168.0.196:5001"
+      ],
+      "ip_local": "192.168.0.196",
+      "puerto": 5001,
+      "server_id": "b447268d-5ee2-4674-9e61-00467df0d8dc",
+      "server_info": {
+        "name": "CronoAndes",
+        "version": "4.0-RFID",
+        "status": "online"
+      },
+      "updated_at": "2026-09-22T02:04:49.651509+00:00"
     }
   }
 }
