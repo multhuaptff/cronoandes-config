@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-25T19:35:33.654706+00:00",
+  "updated_at": "2026-09-25T20:48:07.213273+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -146,7 +146,7 @@
       "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "urls": [
         "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://intranet-physiology-hang-recent.trycloudflare.com",
+        "https://presently-hill-mario-waters.trycloudflare.com",
         "http://192.168.0.196:5001"
       ],
       "ip_local": "192.168.0.196",
@@ -157,7 +157,7 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-09-25T19:35:33.654706+00:00"
+      "updated_at": "2026-09-25T20:48:07.213273+00:00"
     }
   }
 }
