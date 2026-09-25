@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-25T18:00:36.029451+00:00",
+  "updated_at": "2026-09-25T18:02:36.337508+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -146,7 +146,7 @@
       "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "urls": [
         "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://hey-welfare-pillow-consortium.trycloudflare.com",
+        "https://elliott-doctrine-survive-employer.trycloudflare.com",
         "http://192.168.0.5:5001"
       ],
       "ip_local": "192.168.0.5",
@@ -157,7 +157,7 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-09-25T18:00:36.029451+00:00"
+      "updated_at": "2026-09-25T18:02:36.337508+00:00"
     }
   }
 }
