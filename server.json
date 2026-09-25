@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-23T00:23:40.587455+00:00",
+  "updated_at": "2026-09-25T15:31:39.499926+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -141,15 +141,15 @@
       },
       "updated_at": "2026-09-22T02:20:44.610834+00:00"
     },
-    "KUNVB": {
-      "event_code": "KUNVB",
+    "VXRRJ": {
+      "event_code": "VXRRJ",
       "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "urls": [
         "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://slides-spoke-advertisement-circles.trycloudflare.com",
-        "http://10.39.182.224:5001"
+        "https://arts-switch-speeches-imperial.trycloudflare.com",
+        "http://192.168.0.5:5001"
       ],
-      "ip_local": "10.39.182.224",
+      "ip_local": "192.168.0.5",
       "puerto": 5001,
       "server_id": "4f075e90-1973-407e-827d-4c1b03401b26",
       "server_info": {
@@ -157,7 +157,7 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-09-23T00:23:40.587455+00:00"
+      "updated_at": "2026-09-25T15:31:39.499926+00:00"
     }
   }
 }
