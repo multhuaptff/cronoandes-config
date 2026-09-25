@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-25T18:02:36.337508+00:00",
+  "updated_at": "2026-09-25T19:30:25.339391+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -141,15 +141,15 @@
       },
       "updated_at": "2026-09-22T02:20:44.610834+00:00"
     },
-    "VXRRJ": {
-      "event_code": "VXRRJ",
+    "SWXZX": {
+      "event_code": "SWXZX",
       "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "urls": [
         "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://elliott-doctrine-survive-employer.trycloudflare.com",
-        "http://192.168.0.5:5001"
+        "https://answers-seen-wrist-knives.trycloudflare.com",
+        "http://192.168.0.196:5001"
       ],
-      "ip_local": "192.168.0.5",
+      "ip_local": "192.168.0.196",
       "puerto": 5001,
       "server_id": "4f075e90-1973-407e-827d-4c1b03401b26",
       "server_info": {
@@ -157,7 +157,7 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-09-25T18:02:36.337508+00:00"
+      "updated_at": "2026-09-25T19:30:25.339391+00:00"
     }
   }
 }
