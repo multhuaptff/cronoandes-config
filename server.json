@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-25T17:43:33.652293+00:00",
+  "updated_at": "2026-09-25T17:45:09.935533+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -146,7 +146,7 @@
       "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "urls": [
         "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://named-includes-seem-tan.trycloudflare.com",
+        "https://dat-jason-advocacy-bags.trycloudflare.com",
         "http://192.168.0.5:5001"
       ],
       "ip_local": "192.168.0.5",
@@ -157,7 +157,7 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-09-25T17:43:33.652293+00:00"
+      "updated_at": "2026-09-25T17:45:09.935533+00:00"
     }
   }
 }
