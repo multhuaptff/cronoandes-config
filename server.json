@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-26T03:36:22.272091+00:00",
+  "updated_at": "2026-09-26T11:47:44.371267+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -146,7 +146,7 @@
       "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "urls": [
         "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://teaches-lane-boulevard-liverpool.trycloudflare.com",
+        "https://mature-tvs-ranger-planes.trycloudflare.com",
         "http://192.168.0.196:5001"
       ],
       "ip_local": "192.168.0.196",
@@ -157,14 +157,14 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-09-26T03:36:22.272091+00:00"
+      "updated_at": "2026-09-26T11:47:44.371267+00:00"
     },
     "ZHWYM": {
       "event_code": "ZHWYM",
       "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "urls": [
         "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://teaches-lane-boulevard-liverpool.trycloudflare.com",
+        "https://mature-tvs-ranger-planes.trycloudflare.com",
         "http://192.168.0.196:5001"
       ],
       "ip_local": "192.168.0.196",
@@ -175,7 +175,7 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-09-26T03:36:22.272091+00:00"
+      "updated_at": "2026-09-26T11:47:44.371267+00:00"
     }
   }
 }
