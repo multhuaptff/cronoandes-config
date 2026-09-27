@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-27T03:18:47.450138+00:00",
+  "updated_at": "2026-09-27T15:48:47.203118+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -177,15 +177,15 @@
       },
       "updated_at": "2026-09-26T12:50:52.744829+00:00"
     },
-    "LQTVI": {
-      "event_code": "LQTVI",
+    "FKOOW": {
+      "event_code": "FKOOW",
       "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "urls": [
         "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://cottages-chains-subsection-con.trycloudflare.com",
-        "http://192.168.0.5:5001"
+        "https://mails-arc-consult-louise.trycloudflare.com",
+        "http://10.39.182.224:5001"
       ],
-      "ip_local": "192.168.0.5",
+      "ip_local": "10.39.182.224",
       "puerto": 5001,
       "server_id": "30e66c52-e176-4c4d-b6b4-c4b3b1ccd2b8",
       "server_info": {
@@ -193,7 +193,7 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-09-27T03:18:47.450138+00:00"
+      "updated_at": "2026-09-27T15:48:47.203118+00:00"
     }
   }
 }
