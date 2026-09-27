@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-27T15:48:47.203118+00:00",
+  "updated_at": "2026-09-27T17:07:46.934890+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -182,7 +182,7 @@
       "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "urls": [
         "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://mails-arc-consult-louise.trycloudflare.com",
+        "https://api.trycloudflare.com",
         "http://10.39.182.224:5001"
       ],
       "ip_local": "10.39.182.224",
@@ -193,7 +193,7 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-09-27T15:48:47.203118+00:00"
+      "updated_at": "2026-09-27T17:07:46.934890+00:00"
     }
   }
 }
