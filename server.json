@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-10-02T02:14:08.875916+00:00",
+  "updated_at": "2026-10-02T02:59:18.849943+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -164,20 +164,20 @@
       "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "urls": [
         "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://municipality-fly-experiments-purposes.trycloudflare.com",
+        "https://timer-democracy-passing-traffic.trycloudflare.com",
         "http://192.168.0.5:5001"
       ],
       "ip_local": "192.168.0.5",
       "puerto": 5001,
       "server_id": "c92035cb-726e-4c0e-9b3d-a22a6d9d067f",
-      "station_id": "CRONO-C92035CB",
-      "stable_url": null,
+      "station_id": "CRONO-0001",
+      "stable_url": "https://crono-0001.say-berg.com",
       "server_info": {
         "name": "CronoAndes",
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-10-02T02:14:08.875916+00:00"
+      "updated_at": "2026-10-02T02:59:18.849943+00:00"
     }
   }
 }
