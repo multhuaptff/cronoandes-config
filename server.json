@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-10-02T03:05:22.672400+00:00",
+  "updated_at": "2026-10-04T01:28:09.158811+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -164,10 +164,10 @@
       "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "urls": [
         "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://ongoing-pamela-causes-somewhere.trycloudflare.com",
-        "http://192.168.0.5:5001"
+        "https://healthcare-homeland-stuff-accountability.trycloudflare.com",
+        "http://10.66.254.224:5001"
       ],
-      "ip_local": "192.168.0.5",
+      "ip_local": "10.66.254.224",
       "puerto": 5001,
       "server_id": "c92035cb-726e-4c0e-9b3d-a22a6d9d067f",
       "station_id": "CRONO-0001",
@@ -177,7 +177,7 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-10-02T03:05:22.672400+00:00"
+      "updated_at": "2026-10-04T01:28:09.158811+00:00"
     }
   }
 }
