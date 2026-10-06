@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-10-06T19:31:33.686138+00:00",
+  "updated_at": "2026-10-06T19:55:08.994957+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -164,7 +164,7 @@
       "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "urls": [
         "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://hardware-sussex-singing-isolated.trycloudflare.com",
+        "https://con-entries-share-chip.trycloudflare.com",
         "http://192.168.0.196:5001"
       ],
       "ip_local": "192.168.0.196",
@@ -177,14 +177,14 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-10-06T19:31:33.686138+00:00"
+      "updated_at": "2026-10-06T19:55:08.994957+00:00"
     },
     "UJ6VZ": {
       "event_code": "UJ6VZ",
       "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "urls": [
         "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://hardware-sussex-singing-isolated.trycloudflare.com",
+        "https://con-entries-share-chip.trycloudflare.com",
         "http://192.168.0.196:5001"
       ],
       "ip_local": "192.168.0.196",
@@ -197,7 +197,7 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-10-06T19:31:33.686138+00:00"
+      "updated_at": "2026-10-06T19:55:08.994957+00:00"
     }
   }
 }
