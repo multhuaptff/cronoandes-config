@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-10-04T01:28:09.158811+00:00",
+  "updated_at": "2026-10-06T15:05:14.428088+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -159,15 +159,15 @@
       },
       "updated_at": "2026-09-27T18:05:25.003157+00:00"
     },
-    "JKI6R": {
-      "event_code": "JKI6R",
+    "APMTH": {
+      "event_code": "APMTH",
       "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "urls": [
         "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://healthcare-homeland-stuff-accountability.trycloudflare.com",
-        "http://10.66.254.224:5001"
+        "https://evaluation-munich-acting-championships.trycloudflare.com",
+        "http://192.168.0.196:5001"
       ],
-      "ip_local": "10.66.254.224",
+      "ip_local": "192.168.0.196",
       "puerto": 5001,
       "server_id": "c92035cb-726e-4c0e-9b3d-a22a6d9d067f",
       "station_id": "CRONO-0001",
@@ -177,7 +177,27 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-10-04T01:28:09.158811+00:00"
+      "updated_at": "2026-10-06T15:05:14.428088+00:00"
+    },
+    "UJ6VZ": {
+      "event_code": "UJ6VZ",
+      "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "urls": [
+        "https://condiment-hefty-celery.ngrok-free.dev",
+        "https://evaluation-munich-acting-championships.trycloudflare.com",
+        "http://192.168.0.196:5001"
+      ],
+      "ip_local": "192.168.0.196",
+      "puerto": 5001,
+      "server_id": "c92035cb-726e-4c0e-9b3d-a22a6d9d067f",
+      "station_id": "CRONO-0001",
+      "stable_url": "https://crono-0001.say-berg.com",
+      "server_info": {
+        "name": "CronoAndes",
+        "version": "4.0-RFID",
+        "status": "online"
+      },
+      "updated_at": "2026-10-06T15:05:14.428088+00:00"
     }
   }
 }
