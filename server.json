@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-10-08T01:48:12.493476+00:00",
+  "updated_at": "2026-10-10T23:58:48.283019+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -178,6 +178,26 @@
         "status": "online"
       },
       "updated_at": "2026-10-08T01:48:12.493476+00:00"
+    },
+    "7BUOA": {
+      "event_code": "7BUOA",
+      "api_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "urls": [
+        "https://condiment-hefty-celery.ngrok-free.dev",
+        "https://bright-rose-cologne-contest.trycloudflare.com",
+        "http://192.168.0.196:5001"
+      ],
+      "ip_local": "192.168.0.196",
+      "puerto": 5001,
+      "server_id": "3d6e8c84-59aa-43f4-b9ca-2b2f95f5caa4",
+      "station_id": "CRONO-0001",
+      "stable_url": "https://crono-0001.say-berg.com",
+      "server_info": {
+        "name": "CronoAndes",
+        "version": "4.0-RFID",
+        "status": "online"
+      },
+      "updated_at": "2026-10-10T23:58:48.283019+00:00"
     }
   }
 }
