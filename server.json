@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-10-13T00:03:50.506770+00:00",
+  "updated_at": "2026-10-13T00:04:00.533622+00:00",
   "eventos": {
     "LNZT2": {
       "event_code": "LNZT2",
@@ -184,9 +184,8 @@
       "api_url": "https://crono-0001.say-berg.com",
       "urls": [
         "https://crono-0001.say-berg.com",
-        "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://panel-attorney-meet-cingular.trycloudflare.com",
-        "http://192.168.0.196:5001"
+        "https://wings-captured-given-waves.trycloudflare.com",
+        "https://condiment-hefty-celery.ngrok-free.dev"
       ],
       "ip_local": "192.168.0.196",
       "puerto": 5001,
@@ -198,7 +197,7 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-10-13T00:03:50.506770+00:00",
+      "updated_at": "2026-10-13T00:04:00.533622+00:00",
       "nombre": "ESTAMPIDA 1",
       "server_url": "https://crono-0001.say-berg.com"
     },
@@ -209,9 +208,8 @@
       "api_url": "https://crono-0001.say-berg.com",
       "urls": [
         "https://crono-0001.say-berg.com",
-        "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://panel-attorney-meet-cingular.trycloudflare.com",
-        "http://192.168.0.196:5001"
+        "https://wings-captured-given-waves.trycloudflare.com",
+        "https://condiment-hefty-celery.ngrok-free.dev"
       ],
       "ip_local": "192.168.0.196",
       "puerto": 5001,
@@ -223,7 +221,7 @@
         "version": "4.0-RFID",
         "status": "online"
       },
-      "updated_at": "2026-10-13T00:03:50.506770+00:00"
+      "updated_at": "2026-10-13T00:04:00.533622+00:00"
     }
   }
 }
